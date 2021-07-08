@@ -93,7 +93,6 @@ except for no tumor which has about 500 images.
 ### <https://www.kaggle.com/zivaharon/pneumonia-detection-dl-inceptionv3-tl>
 
 #### **Background**
-==========
 
 Pneumonia is an inflammatory condition of the lung affecting primarily
 the small air sacs known as alveoli. It kills more children younger than
@@ -113,7 +112,6 @@ where it was acquired, such as community- or hospital-acquired or
 healthcare-associated pneumonia.
 
 #### **Description of Dataset**
-======================
 
 This dataset contains 5,856 Chest X-Ray images. Images are labeled as
 one of the three classes NORMAL/BACTERIA/VIRUS. For details of the data
