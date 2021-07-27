@@ -5,7 +5,7 @@
 ### <Abdulshaheed.qunber@kaust.edu.sa>
 
 *This project aims to explore application of the Vision Transformer
-(ViT) architecture for Scene Text Recognition problems. The model is
+(ViT) architecture for medical images classification. The model is
 implemented with TensorFlow and is similar to the original ViT with some
 changes to fit the new type of problem.*
 
